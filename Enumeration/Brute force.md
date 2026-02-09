@@ -1,0 +1,4 @@
+
+```bash
+ffuf yeet
+```
